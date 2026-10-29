@@ -1,4 +1,2 @@
 Pillow
 numpy
-Pillow
-numpy
