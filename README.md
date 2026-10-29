@@ -178,6 +178,6 @@ Enter your choice (1/2/3): 1
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
