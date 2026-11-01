@@ -9,7 +9,7 @@ def cmd_embed(args):
     cover = normalize_path(args.cover)
     secret = normalize_path(args.secret)
     out = normalize_path(args.out) if args.out else 'stego_output.png'
-
+    # choose which bits to modify 
     print("\nChoose bit position to modify:")
     print("1 → Least significant bits (LSB, least visible)")
     print("2 → Middle bits")
